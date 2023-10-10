@@ -1,1 +1,1 @@
-# .github
+Stupid projects go brrrr
